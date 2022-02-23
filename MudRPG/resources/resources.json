@@ -1,0 +1,94 @@
+{
+	"sprite_sheet_types":
+	{
+		"character": 
+		{
+			"sprite_size_x": 26,
+			"sprite_size_y": 36,
+			"sprite_count_x": 3,
+			"sprite_count_y": 4
+		},
+		"tile": 
+		{
+			"sprite_size_x": 16,
+			"sprite_size_y": 16,
+			"sprite_count_x": 1,
+			"sprite_count_y": 1
+		}
+	},
+	"files": {
+		"lich.png": 
+		[
+			{
+				"id": "character/skeleton_blue_small_1",
+				"type": "character",
+				"start_x": 0,
+				"start_y": 0
+			},
+			{
+				"id": "character/skeleton_blue_big_1",
+				"type": "character",
+				"start_x": 78,
+				"start_y": 0
+			},
+			{
+				"id": "character/skeleton_red_small_1",
+				"type": "character",
+				"start_x": 156,
+				"start_y": 0
+			},
+			{
+				"id": "character/skeleton_red_big_1",
+				"type": "character",
+				"start_x": 234,
+				"start_y": 0
+			},
+						
+			{
+				"id": "character/skeleton_priest_human_1",
+				"type": "character",
+				"start_x": 0,
+				"start_y": 144
+			},
+			{
+				"id": "character/skeleton_priest_skeleton_1",
+				"type": "character",
+				"start_x": 78,
+				"start_y": 144
+			},
+			{
+				"id": "character/skeleton_warrior_human_1",
+				"type": "character",
+				"start_x": 156,
+				"start_y": 144
+			},
+			{
+				"id": "character/skeleton_warrior_skeleton_1",
+				"type": "character",
+				"start_x": 234,
+				"start_y": 144
+			}
+		],
+		"tf_ff_tileA2.png":
+		[
+			{
+				"id": "tile/grass_1",
+				"type": "tile",
+				"start_x": 0,
+				"start_y": 0
+			},
+			{
+				"id": "tile/grass_out_of_bounds_1",
+				"type": "tile",
+				"start_x": 144,
+				"start_y": 0
+			},
+			{
+				"id": "tile/grass_out_of_bounds_2",
+				"type": "tile",
+				"start_x": 128,
+				"start_y": 0
+			}
+		]
+	}
+}
